@@ -1,0 +1,26 @@
+{
+  "name": "xadrez-game",
+  "version": "1.0.0",
+  "description": "Um jogo de Xadrez feito em JavaScript",
+  "main": "server.js",
+  "scripts": {
+    "start:dev": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateus-eduardo-dias/Xadrez.git"
+  },
+  "keywords": [],
+  "author": "Mateus Eduardo",
+  "license": "Apache-2.0",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/mateus-eduardo-dias/Xadrez/issues"
+  },
+  "homepage": "https://github.com/mateus-eduardo-dias/Xadrez#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "ws": "^8.18.2"
+  }
+}
